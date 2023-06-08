@@ -3,7 +3,7 @@
 ### Tutorial:
 
 1. Click file **main.bat** to run
-1. Input information as turotial
+1. Input information as tutorial in command line window
 2. Check output in folder **output**
 
 _Note: Can edit or add more file (template) in folder **sample**_
